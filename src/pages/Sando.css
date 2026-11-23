@@ -176,12 +176,15 @@
   background: #1a1410 url('/realm/still.webp') center / cover no-repeat;
 }
 
-/* the band: it shares the rows of the words and is drawn under them */
+/* the band: it shares the rows of the words and is drawn under them; its top
+   reaches a little into the picture and fades in there, so it reads as the
+   ground under the shrine and not as a bar */
 .sando-fallback::before {
   content: '';
   grid-row: 2 / 5;
   grid-column: 1;
-  background: #1a1410;
+  margin-top: -40px;
+  background: linear-gradient(rgba(26, 20, 16, 0), #1a1410 40px);
 }
 
 .sando-fallback > * {
