@@ -210,6 +210,15 @@
   padding-bottom: max(28px, env(safe-area-inset-bottom));
 }
 
+/* with room to the side the links share one line, so the band stays low */
+@media (min-width: 720px) {
+  .sando-fallback nav {
+    grid-auto-flow: column;
+    justify-content: center;
+    column-gap: 36px;
+  }
+}
+
 .sando-fallback a {
   color: inherit;
 }
