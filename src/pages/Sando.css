@@ -178,7 +178,7 @@
 
 /* the band: it shares the rows of the words and is drawn under them; its top
    reaches a little into the picture and fades in there, so it reads as the
-   ground under the shrine and not as a bar */
+   ground under the shrine */
 .sando-fallback::before {
   content: '';
   grid-row: 2 / 5;
@@ -189,7 +189,7 @@
 
 .sando-fallback > * {
   grid-column: 1;
-  padding: 0 max(24px, env(safe-area-inset-left)) 0 max(24px, env(safe-area-inset-right));
+  padding: 0 max(24px, env(safe-area-inset-right)) 0 max(24px, env(safe-area-inset-left));
 }
 
 .sando-fallback h1 {
