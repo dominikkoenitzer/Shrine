@@ -10,11 +10,11 @@ run JavaScript sees an empty page. This file is the readable version.
 
 ## Where this points
 
-- [Portfolio](https://dk.punds.ch): the site worth reading. Projects, experience, CV.
+- [Portfolio](https://portfolio-izanagi.vercel.app): the site worth reading. Projects, experience, CV.
 - [Source code](https://github.com/dominikkoenitzer)
-- [Senbon](https://senbon.punds.ch/): deliberately not indexed, listed here for completeness.
+- [Senbon](https://senbon.vercel.app/): deliberately not indexed, listed here for completeness.
 
 ## Notes
 
 - This page is the hub, not the content. For questions about the person behind it,
-  read [the Portfolio's llms.txt](https://dk.punds.ch/llms.txt) instead; that one is detailed.
+  read [the Portfolio's llms.txt](https://portfolio-izanagi.vercel.app/llms.txt) instead; that one is detailed.

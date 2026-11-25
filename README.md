@@ -6,7 +6,7 @@
 
 A quiet shrine garden on an island above the clouds, rendered live in the browser. Three plaques on the rack lead to everything else.
 
-[**punds.ch**](https://punds.ch/)
+[**punds-izanagi.vercel.app**](https://punds-izanagi.vercel.app/)
 
 [![CI](https://github.com/dominikkoenitzer/Shrine/actions/workflows/ci.yml/badge.svg)](https://github.com/dominikkoenitzer/Shrine/actions/workflows/ci.yml)
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](./LICENSE)

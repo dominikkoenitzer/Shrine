@@ -1,4 +1,4 @@
-# robots.txt for https://punds.ch
+# robots.txt for https://punds-izanagi.vercel.app
 # One group covers every crawler. A crawler obeys only the single most specific
 # group that matches its token, so a per-bot group would REPLACE this one for
 # that bot rather than adding to it. Everything is welcome, so none is needed.
@@ -6,4 +6,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://punds.ch/sitemap.xml
+Sitemap: https://punds-izanagi.vercel.app/sitemap.xml
