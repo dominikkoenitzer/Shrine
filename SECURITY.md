@@ -1,7 +1,7 @@
 # Security Policy
 
 Thanks for helping keep **Shrine** safe. This is a small personal landing page,
-a single deployed static site at [punds.ch](https://punds.ch/) with no backend,
+a single deployed static site at [punds-izanagi.vercel.app](https://punds-izanagi.vercel.app/) with no backend,
 no database, and no user accounts or user data. That keeps the attack surface
 small, but reports are still genuinely appreciated.
 

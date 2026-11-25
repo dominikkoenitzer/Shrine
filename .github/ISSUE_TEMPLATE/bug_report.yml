@@ -6,7 +6,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to file a bug report for [Shrine](https://punds.ch/).
+        Thanks for taking the time to file a bug report for [Shrine](https://punds-izanagi.vercel.app/).
         Please fill out the fields below so the issue can be reproduced and fixed quickly.
   - type: checkboxes
     id: search
